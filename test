@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Changing the colors!</title>
+	</head>
+	<body>
+	
+		    <h1>Big Heading</h1>
+		
+		<h1> style"=color: #008000; font-size":16px</h1>
+        <h2 style"=color: violet"></h2>
+			<p>A giant bear and a little duck were pals</p>
+        <h2> style="color: red; font-size:10px"></h2>
+			<p>But the bear got hungry and ate the duck.</p>
+	</body>
+</html>
